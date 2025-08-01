@@ -1,0 +1,7 @@
+model,CTL_run,CTL_grid
+CMCC-CM2-SR5,r1i1p1f1,gn
+CanESM5,r1i1p1f1,gn
+HadGEM3-GC31-LL,r1i1p1f1,gn
+MIROC6,r1i1p1f1,gn
+MPI-ESM1-2-LR,r1i1p1f1,gn
+MRI-ESM2-0,r1i1p1f1,gn
